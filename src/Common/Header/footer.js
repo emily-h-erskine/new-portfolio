@@ -30,30 +30,31 @@ export const Footer = () => {
           </Grid>
 
           <Grid item xs={12} sm={6}>
-            <div className="col-md-3 widget" style={{ textAlign: 'right', padding: '1%' }}>
-              <h3 className="widget-title">Follow me</h3>
-              <div className="widget-body">
-                <p className="follow-me-icons">
-                  <a href="https://www.linkedin.com/in/emily-huong-erskine-290280234">
-                    <FontAwesomeIcon icon={['fab', 'linkedin']} size="1x" />
-                  </a>
-                  <a href="https://dribbble.com/becauseiamem" style={{ padding: '2%' }}>
-                    <FontAwesomeIcon icon={['fab', 'dribbble']} size="1x" />
-                  </a>
-                  <a href="https://www.github.com/emily-h-erskine">
-                    <FontAwesomeIcon icon={['fab', 'github']} size="1x" />
-                  </a>
-                </p>
-              </div>
-            </div>
             <div className="row" style={{ textAlign: 'right', padding: '1%' }}>
-              <div className="col-md-12 widget">
+                <div className="col-md-12 widget">
+                <h3 className="widget-title">Follow me</h3>
                 <div className="widget-body">
-                  <p className="text-right">
-                    Copyright &copy; 2024, Emily-Huong Erskine <br />
-                  </p>
+                    <p className="follow-me-icons">
+                    <a href="https://www.linkedin.com/in/emily-huong-erskine-290280234">
+                        <FontAwesomeIcon icon={['fab', 'linkedin']} size="1x" />
+                    </a>
+                    <a href="https://dribbble.com/becauseiamem" style={{ padding: '2%' }}>
+                        <FontAwesomeIcon icon={['fab', 'dribbble']} size="1x" />
+                    </a>
+                    <a href="https://www.github.com/emily-h-erskine">
+                        <FontAwesomeIcon icon={['fab', 'github']} size="1x" />
+                    </a>
+                    </p>
                 </div>
-              </div>
+                </div>
+
+                <div className="col-md-12 widget">
+                    <div className="widget-body">
+                    <p className="text-right">
+                        Copyright &copy; 2024, Emily-Huong Erskine <br />
+                    </p>
+                    </div>
+                </div>
             </div>
           </Grid>
         </Grid>
