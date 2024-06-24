@@ -17,7 +17,7 @@ export const Header = () => {
 
       <div className="navbar-collapse">
         <br />
-        <ul className="nav" style={{ display: 'flex', justifyContent: 'center', padding: 0}}>
+        <ul className="nav" style={{ display: 'flex', justifyContent: 'center', padding: 0 }}>
           <li className="active" style={{ margin: '0 15px' }}>
             <a href="/">Home</a>
           </li>
@@ -28,7 +28,7 @@ export const Header = () => {
             <a href="/projects">Projects</a>
           </li>
           <li style={{ margin: '0 15px' }}>
-            <a href="assets/images/eherskine.pdf" download>CV</a>
+            <a href="/eherskine.pdf" download>CV</a>
           </li>
         </ul>
         <br />
