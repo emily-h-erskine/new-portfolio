@@ -16,7 +16,7 @@ import hifiImage from '../images/hifi-devilles.png';
 
 export default function DeVilles() {
   return (
-    <main className="container-fluid py-5" style={{padding: '5%'}}>
+    <main className="container-fluid py-5" style={{padding: '0 5%'}}>
       <div className="row">
         <div className="col">
           <hr />
