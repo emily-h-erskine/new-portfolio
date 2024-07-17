@@ -6,7 +6,7 @@ import empathyMapImage from '../images/empathymap-play25.png';
 import cjmImage from '../images/cjm-play25.jpg';
 import usabilitytests from '../images/play25 - usabilitytests.png';
 import lofiPrototypeImage from '../images/lo-fi - play25.png'
-import hifiImage from '../images/hifi-devilles.png';
+import hifiImage from '../images/hi-fi - play25.png';
 
 
 export default function Play25Online() {
@@ -106,7 +106,7 @@ export default function Play25Online() {
         <p>
             User goals and pain points, determined through the research, were translated into an easy-to-read and graphically structured document to assist future product design.
         </p>
-        <p>&nbsp;</p>
+        <br/><br/>
         <p>Helps show the user's route through the site, navigating through the particular task.</p>
 
         </div>
@@ -115,7 +115,7 @@ export default function Play25Online() {
       <div className="row mt-5 align-items-center">
         <div className="col-lg-6">
           <h5 class="text-left"><b>Key Insights from Usability Test</b></h5>
-          <p>&nbsp;</p>
+          <br/><br/>
           <ul>
               <li>User is completely lost - "and I don't know what's going on here."</li>
               <li>User's not focused on where they should be looking.</li>
@@ -139,7 +139,7 @@ export default function Play25Online() {
           <p>
               Sketched screens and states were photographed and inserted into Marvel app for usability testing purposes. Research participant feedback was noted.
           </p>
-          <p>&nbsp;</p>
+          <br/><br/>
           <b class="text-left">Iterations of Lo-Fi Prototype Based on Feedback</b>
           <ul>
               <li>Increase text size - as it was noted during the testing process that the text was too small, and users couldn't read the writing.</li>
@@ -153,9 +153,11 @@ export default function Play25Online() {
         <div className="col-lg-6">
           <h5 className="text-left"><b>High Fidelity Prototype</b></h5>
           <p>
-            Following mid-fidelity product development, Adobe XD documents were precisely converted to a different document and with careful color choices following the theme and atmosphere I wanted to create - I made my high fidelity prototype.
-            <br /><br />Further usability tests were conducted on the consequent high-fidelity prototype. Research participant feedback was noted and incorporated into further product development.
-            <br /><br /><br /><a href="/devilles-prototype"><u>Try out the prototype</u></a>
+              For hi-fi, I colorized the prototype, making the contents livelier. Adding color to the mascot and gradients to the background gives setting to the prototype and adds to the general atmosphere, aiming to create a fun, welcoming game environment.
+              <br/><br/>
+              When aiming to preserve the game of 25, it's essential to appeal to the audience, especially the younger generations who will carry on the tradition. Hence, the fun-loving cartoon-like atmosphere.
+              <br/><br/>
+              <a href="25-prototype.html"><u>Test out the prototype and view submission video!</u></a>
           </p>
         </div>
         <div className="col-lg-6">
