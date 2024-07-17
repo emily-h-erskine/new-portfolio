@@ -33,10 +33,12 @@ export default function Play25Online() {
       <div className="row mt-5 align-items-center">
         <div className="col-lg-6">
           <h5 class="text-left"><b>What Did I Do?</b></h5>
+          <br/>
           <p>
               I was the sole UX designer/researcher on this project, conducting everything from research to usability tests and creating prototypes from low-fidelity paper prototypes to digital, interactive hi-fi designs. I was responsible for determining the overall design direction of the project, while communicating with my lecturer and peers to gain feedback on my work.
           </p>
           <h5 class="text-left"><b>Desk Research</b></h5>
+          <br/>
           <p>
               As part of our desk research, we had to teach others how to play the game. This is to show how you'd create a tutorial when designing the game, so it's accessible to beginners and advanced players alike.
           </p>
@@ -52,10 +54,12 @@ export default function Play25Online() {
         </div>
         <div className="col-lg-6">
           <h5 class="text-left"><b>Stakeholder Interview Findings</b></h5>
+          <br/>
           <p>
               It was evident from the stakeholder interview that there was great scope for creativity. The stakeholder said that the sky's the limit. We also weren't designing for just one audience but multiple. We had to cater for a wide range of abilities and ages, with the aim of making the application engaging for all.
           </p>
           <h5 class="text-left"><b>User Stories</b></h5>
+          <br/>
           <ul>
               <li>
                   I am a 40-year-old native of Sligo, currently working in Sydney, who would love to reengage with friends by our weekly game of 25, using my mobile phone.
@@ -74,10 +78,11 @@ export default function Play25Online() {
       <div className="row mt-5 align-items-center">
         <div className="col-lg-6">
           <h5 class="text-left"><b>Empathy Map</b></h5>
+          <br/>
           <p>
               The empathy mapping process helps distill and categorize your knowledge of the user into one place. It can be used to capture who a user is and make sense of qualitative research (research notes, user interviews).
           </p>
-          <p>&nbsp;</p>
+          <br/>
           <b class="text-left">User Pain Points</b>
           <ul>
               <li>Can't follow the rules (no essay - play a game / go through a tutorial)</li>
@@ -103,11 +108,12 @@ export default function Play25Online() {
         </div>
         <div className="col-lg-6">
         <h5 class="text-left"><b>Ideal Customer Journey Map</b></h5>
+        <br/>
         <p>
             User goals and pain points, determined through the research, were translated into an easy-to-read and graphically structured document to assist future product design.
-        </p>
-        <br/><br/>
-        <p>Helps show the user's route through the site, navigating through the particular task.</p>
+            <br/><br/>
+            Helps show the user's route through the site, navigating through the particular task.
+          </p>
 
         </div>
       </div>
@@ -115,7 +121,7 @@ export default function Play25Online() {
       <div className="row mt-5 align-items-center">
         <div className="col-lg-6">
           <h5 class="text-left"><b>Key Insights from Usability Test</b></h5>
-          <br/><br/>
+          <br/>
           <ul>
               <li>User is completely lost - "and I don't know what's going on here."</li>
               <li>User's not focused on where they should be looking.</li>
@@ -136,10 +142,10 @@ export default function Play25Online() {
         </div>
         <div className="col-lg-6">
           <h5 class="text-left"><b>Lo-Fi Prototype</b></h5>
+          <br/>
           <p>
               Sketched screens and states were photographed and inserted into Marvel app for usability testing purposes. Research participant feedback was noted.
           </p>
-          <br/><br/>
           <b class="text-left">Iterations of Lo-Fi Prototype Based on Feedback</b>
           <ul>
               <li>Increase text size - as it was noted during the testing process that the text was too small, and users couldn't read the writing.</li>
@@ -152,6 +158,7 @@ export default function Play25Online() {
       <div className="row mt-5 align-items-center">
         <div className="col-lg-6">
           <h5 className="text-left"><b>High Fidelity Prototype</b></h5>
+          <br/>
           <p>
               For hi-fi, I colorized the prototype, making the contents livelier. Adding color to the mascot and gradients to the background gives setting to the prototype and adds to the general atmosphere, aiming to create a fun, welcoming game environment.
               <br/><br/>
