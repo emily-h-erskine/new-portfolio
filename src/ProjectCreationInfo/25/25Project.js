@@ -5,7 +5,8 @@ import Play25Stakeholder from '../images/stakeholder.jpeg';
 import empathyMapImage from '../images/empathymap-play25.png';
 import cjmImage from '../images/cjm-play25.jpg';
 import usabilitytests from '../images/play25 - usabilitytests.png';
-import lofiPrototypeImage from '../images/lo-fi - play25.png'
+import lofiPrototypeImage from '../images/lo-fi - play25.png';
+import midfiPrototypeImage from '../images/mid-fi - play25.png';
 import hifiImage from '../images/hi-fi - play25.png';
 
 
@@ -153,6 +154,26 @@ export default function Play25Online() {
         </div>
       </div>
 
+      <div className="row mt-5 align-items-center">
+        <div className="col-lg-6">
+          <img src={midfiPrototypeImage} className="img-fluid" alt="Mid-Fi Prototype" />
+        </div>
+        <div className="col-lg-6">
+          <h5 class="text-left"><b>Mid-Fi Prototype</b></h5>
+          <br/>
+          <p>
+          As it came time for mid-fi prototyping, I started expanding the app beyond the scope of the tutorial and the actual game. I developed a theme and created features so that users could host a game with friends, join a game with friends, etc.
+          </p>
+          <b class="text-left">Iterations of Mid-Fi Prototype Based on Feedback</b>
+          <ul>
+              <li>Making the text larger and easier to read.</li>
+              <li>Adding back buttons/arrows to make the game more accessible.</li>
+              <li>Keeping consistency with button colors.</li>
+              <li>Maintaining a more consistent theme (go all in with the theme).</li>
+          </ul>
+        </div>
+      </div>
+
 
 
       <div className="row mt-5 align-items-center">
@@ -164,7 +185,7 @@ export default function Play25Online() {
               <br/><br/>
               When aiming to preserve the game of 25, it's essential to appeal to the audience, especially the younger generations who will carry on the tradition. Hence, the fun-loving cartoon-like atmosphere.
               <br/><br/>
-              <a href="25-prototype.html"><u>Test out the prototype and view submission video!</u></a>
+              <a href="/25-prototype"><u>Test out the prototype and view submission video!</u></a>
           </p>
         </div>
         <div className="col-lg-6">
