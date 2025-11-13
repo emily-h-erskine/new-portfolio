@@ -51,7 +51,7 @@ export const Footer = () => {
                 <div className="col-md-12 widget">
                     <div className="widget-body">
                     <p className="text-right">
-                        Copyright &copy; 2024, Emily-Huong Erskine <br />
+                        Copyright &copy; 2025, Emily-Huong Erskine <br />
                     </p>
                     </div>
                 </div>

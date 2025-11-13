@@ -16,7 +16,7 @@ export default function About() {
           <h3>Introducing Me</h3>
           <br />
           <p>
-            Welcome to my E-Portfolio! Hello, my name is Emily-Huong Erskine, and a recent graduate of Atlantic Technological University, Sligo Campus where I studied for my degree in Application Design and User Experience, achieving a 1.1 (First Class Honors). 
+            Welcome to my E-Portfolio! Hello, my name is Emily-Huong Erskine, and a graduate of Atlantic Technological University, Sligo Campus where I studied for my degree in Application Design and User Experience, achieving a 1.1 (First Class Honors). 
             I have a passion for all things computing and design. I have a very creative mind, I'm hardworking and determined—always happy to learn and expand my knowledge and skillsets.
           </p>
         </div>
